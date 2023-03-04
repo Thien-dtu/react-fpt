@@ -1,0 +1,17 @@
+.row-two {
+    display: grid;
+    grid-template-columns: 6fr 4fr;
+    grid-column-gap: 10px;
+    margin-top: 5px;
+    height: 220px;
+  }
+
+  .bg-admin{
+    height: 1000px;
+  }
+
+//   .row_two .row_two_col_40 {
+//     display: grid;
+//     grid-template-rows: 1fr 1fr;
+//     grid-column-gap: 10px;
+//   }
